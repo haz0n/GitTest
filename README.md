@@ -1,3 +1,3 @@
 # GitTest
 Ez egy teszt repo
-Barni meleg, de én fázok :(
+A 90es években mindenki táncolt
